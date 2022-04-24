@@ -1,0 +1,4 @@
+enum HospitalType
+{
+MULTISPECIALITY,GENERAL
+}
